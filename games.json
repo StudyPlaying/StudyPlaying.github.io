@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "k-pop-puzzle-hunters",
+    "thumbnail": "https://StudyPlaying.github.io/images/300.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-legend",
+    "thumbnail": "https://StudyPlaying.github.io/images/301.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://StudyPlaying.github.io/images/302.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hyper-nurse-hospital-games",
+    "thumbnail": "https://StudyPlaying.github.io/images/303.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "golf-orbit",
+    "thumbnail": "https://StudyPlaying.github.io/images/304.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "autumn-glam-gala",
+    "thumbnail": "https://StudyPlaying.github.io/images/305.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "toco-teens-halloween-party",
+    "thumbnail": "https://StudyPlaying.github.io/images/306.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ultimate-tower-defense",
+    "thumbnail": "https://StudyPlaying.github.io/images/307.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "dragon-year-jigsaw",
+    "thumbnail": "https://StudyPlaying.github.io/images/308.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "block-up",
+    "thumbnail": "https://StudyPlaying.github.io/images/309.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "world-war-brothers-ww2",
+    "thumbnail": "https://StudyPlaying.github.io/images/310.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "number-tricky-puzzles",
+    "thumbnail": "https://StudyPlaying.github.io/images/311.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cosmic-aviator",
+    "thumbnail": "https://StudyPlaying.github.io/images/312.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "free-the-ball",
+    "thumbnail": "https://StudyPlaying.github.io/images/313.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "archery-master-bow-and-arrow",
+    "thumbnail": "https://StudyPlaying.github.io/images/314.webp",
+    "genre": "Shooter, Sports"
+  },
+  {
+    "id": "barbee-summer-vacation",
+    "thumbnail": "https://StudyPlaying.github.io/images/315.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "challenge-your-friends",
+    "thumbnail": "https://StudyPlaying.github.io/images/316.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "zoo-shap",
+    "thumbnail": "https://StudyPlaying.github.io/images/317.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jail-prison-van-police-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/318.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "tile-connect-club",
+    "thumbnail": "https://StudyPlaying.github.io/images/319.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "burger-cafe-cooking-games-for-kids",
+    "thumbnail": "https://StudyPlaying.github.io/images/320.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "boxteria",
+    "thumbnail": "https://StudyPlaying.github.io/images/321.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "the-earth-evolution",
+    "thumbnail": "https://StudyPlaying.github.io/images/322.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cat-rescue",
+    "thumbnail": "https://StudyPlaying.github.io/images/323.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "survival-in-area-51",
+    "thumbnail": "https://StudyPlaying.github.io/images/324.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "tunnel-road",
+    "thumbnail": "https://StudyPlaying.github.io/images/325.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "super-stock-stack",
+    "thumbnail": "https://StudyPlaying.github.io/images/326.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "ninja-obby-parkour",
+    "thumbnail": "https://StudyPlaying.github.io/images/327.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bomb-evolution",
+    "thumbnail": "https://StudyPlaying.github.io/images/328.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "challenger-city-driver",
+    "thumbnail": "https://StudyPlaying.github.io/images/329.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bubbly-lab",
+    "thumbnail": "https://StudyPlaying.github.io/images/330.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "catch-the-pig",
+    "thumbnail": "https://StudyPlaying.github.io/images/331.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-steal-brainrot-67-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/332.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-panda-blast",
+    "thumbnail": "https://StudyPlaying.github.io/images/333.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "mad-truck",
+    "thumbnail": "https://StudyPlaying.github.io/images/334.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "jigsolitaire",
+    "thumbnail": "https://StudyPlaying.github.io/images/335.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doge-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/336.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "brutalmania-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/337.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "oreplication",
+    "thumbnail": "https://StudyPlaying.github.io/images/338.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "color-sand-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/339.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sum-shuffle",
+    "thumbnail": "https://StudyPlaying.github.io/images/340.webp",
+    "genre": "Educational, Merge"
+  },
+  {
+    "id": "merge-combo",
+    "thumbnail": "https://StudyPlaying.github.io/images/341.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "checkers-deluxe-edition",
+    "thumbnail": "https://StudyPlaying.github.io/images/342.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "relax-mini-games-collection",
+    "thumbnail": "https://StudyPlaying.github.io/images/343.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "safari-story-mahjong",
+    "thumbnail": "https://StudyPlaying.github.io/images/344.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "spin-thru",
+    "thumbnail": "https://StudyPlaying.github.io/images/345.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "festival-vibes-makeup",
+    "thumbnail": "https://StudyPlaying.github.io/images/346.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hexagon",
+    "thumbnail": "https://StudyPlaying.github.io/images/347.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "italian-brainrot-quiz",
+    "thumbnail": "https://StudyPlaying.github.io/images/348.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "bubble-shooter-pop",
+    "thumbnail": "https://StudyPlaying.github.io/images/349.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "marshmallow-rush",
+    "thumbnail": "https://StudyPlaying.github.io/images/350.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "extreme-real-car-driving-2025",
+    "thumbnail": "https://StudyPlaying.github.io/images/351.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "offroad-climb-4x4",
+    "thumbnail": "https://StudyPlaying.github.io/images/352.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "pyramidz2",
+    "thumbnail": "https://StudyPlaying.github.io/images/353.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "shape-transforming-shifting-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/354.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "craftmart",
+    "thumbnail": "https://StudyPlaying.github.io/images/355.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "steal-brainrot-original-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/356.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "escape-ancient-egypt",
+    "thumbnail": "https://StudyPlaying.github.io/images/357.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "war-of-gun",
+    "thumbnail": "https://StudyPlaying.github.io/images/358.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "max-crusher-2-destruction-drift-and-racing",
+    "thumbnail": "https://StudyPlaying.github.io/images/359.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bus-escape-clear-jam",
+    "thumbnail": "https://StudyPlaying.github.io/images/360.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "light-bulb-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/361.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "leap-of-life",
+    "thumbnail": "https://StudyPlaying.github.io/images/362.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bffs-k-pop-fangirls",
+    "thumbnail": "https://StudyPlaying.github.io/images/363.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "broomcraft-mystic-evasion",
+    "thumbnail": "https://StudyPlaying.github.io/images/364.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "8-ball-pool-billiards-multiplayer",
+    "thumbnail": "https://StudyPlaying.github.io/images/365.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-wars-find-the-criminal",
+    "thumbnail": "https://StudyPlaying.github.io/images/366.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "spider-solitaire-2-suits",
+    "thumbnail": "https://StudyPlaying.github.io/images/367.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "number-domination",
+    "thumbnail": "https://StudyPlaying.github.io/images/368.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "escape-school-duel",
+    "thumbnail": "https://StudyPlaying.github.io/images/369.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "knee-case-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/370.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "vehicle-fun-race",
+    "thumbnail": "https://StudyPlaying.github.io/images/371.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mr-drifter-car-chase-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/372.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cool-orange-ball-bounce-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/373.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "celebrities-get-ready-for-christmas",
+    "thumbnail": "https://StudyPlaying.github.io/images/374.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "back-2-school-makeover",
+    "thumbnail": "https://StudyPlaying.github.io/images/375.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://StudyPlaying.github.io/images/376.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "fnf-2-player",
+    "thumbnail": "https://StudyPlaying.github.io/images/377.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "festival-vibes-makeup",
+    "thumbnail": "https://StudyPlaying.github.io/images/378.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "neon-blast",
+    "thumbnail": "https://StudyPlaying.github.io/images/379.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "digital-aqua",
+    "thumbnail": "https://StudyPlaying.github.io/images/380.webp",
+    "genre": "Art, Care"
+  },
+  {
+    "id": "bubble-shooter-temple-jewels",
+    "thumbnail": "https://StudyPlaying.github.io/images/381.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "upside-down",
+    "thumbnail": "https://StudyPlaying.github.io/images/382.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "island-expander",
+    "thumbnail": "https://StudyPlaying.github.io/images/383.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "escape-again",
+    "thumbnail": "https://StudyPlaying.github.io/images/384.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "worldguessr",
+    "thumbnail": "https://StudyPlaying.github.io/images/385.webp",
+    "genre": "Educational, Quiz"
+  },
+  {
+    "id": "hidden-object-rooms-exploration",
+    "thumbnail": "https://StudyPlaying.github.io/images/386.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "tile-connect-pair-match-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/387.webp",
+    "genre": "Puzzle, .IO"
+  },
+  {
+    "id": "real-driving-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/388.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "100-doors-challenge",
+    "thumbnail": "https://StudyPlaying.github.io/images/389.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "slope-spooky",
+    "thumbnail": "https://StudyPlaying.github.io/images/390.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "merge-cubes-2048-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/391.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stickman-gun-shooter",
+    "thumbnail": "https://StudyPlaying.github.io/images/392.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "blade-forge-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/393.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "knife-madness",
+    "thumbnail": "https://StudyPlaying.github.io/images/394.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "water-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/395.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "red-stickman-vs-monster-school",
+    "thumbnail": "https://StudyPlaying.github.io/images/396.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "hole-eat-grow-attack",
+    "thumbnail": "https://StudyPlaying.github.io/images/397.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "russian-checkers",
+    "thumbnail": "https://StudyPlaying.github.io/images/398.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "kuzbass-horror",
+    "thumbnail": "https://StudyPlaying.github.io/images/399.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "toca-teens-floating-beach-party",
+    "thumbnail": "https://StudyPlaying.github.io/images/400.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bffs-spring-break-fashionista",
+    "thumbnail": "https://StudyPlaying.github.io/images/401.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "komaru-cat",
+    "thumbnail": "https://StudyPlaying.github.io/images/402.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "sort-my-parking-area",
+    "thumbnail": "https://StudyPlaying.github.io/images/403.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crush-it-all",
+    "thumbnail": "https://StudyPlaying.github.io/images/404.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ice-skating-ballerina",
+    "thumbnail": "https://StudyPlaying.github.io/images/405.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "wood-blocks-jam",
+    "thumbnail": "https://StudyPlaying.github.io/images/406.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brainrot-bridge-race-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/407.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solar-smash",
+    "thumbnail": "https://StudyPlaying.github.io/images/408.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mycothreememo",
+    "thumbnail": "https://StudyPlaying.github.io/images/409.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "board-kings-board-dice",
+    "thumbnail": "https://StudyPlaying.github.io/images/410.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "pyramidz",
+    "thumbnail": "https://StudyPlaying.github.io/images/411.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "obby-tsunami-escape-1-by-car",
+    "thumbnail": "https://StudyPlaying.github.io/images/412.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "stickman-vs-zombies-epic-fight",
+    "thumbnail": "https://StudyPlaying.github.io/images/413.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "capybara-block-blast",
+    "thumbnail": "https://StudyPlaying.github.io/images/414.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "elytra-flight",
+    "thumbnail": "https://StudyPlaying.github.io/images/415.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fire-ball-and-water-ball-parkour-love-balls",
+    "thumbnail": "https://StudyPlaying.github.io/images/416.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mr-disc-slingshot-strike",
+    "thumbnail": "https://StudyPlaying.github.io/images/417.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "foono-online-multiplayer-card-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/418.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "besties-chinese-new-year-celebration",
+    "thumbnail": "https://StudyPlaying.github.io/images/419.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mega-ramp-car-stunts",
+    "thumbnail": "https://StudyPlaying.github.io/images/420.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "secrets-of-charmland",
+    "thumbnail": "https://StudyPlaying.github.io/images/421.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "super-swing",
+    "thumbnail": "https://StudyPlaying.github.io/images/422.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "robot-runner-fight",
+    "thumbnail": "https://StudyPlaying.github.io/images/423.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/424.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sniping-aliens",
+    "thumbnail": "https://StudyPlaying.github.io/images/425.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "dream-pet-hotel",
+    "thumbnail": "https://StudyPlaying.github.io/images/426.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "sniper-vs-sniper",
+    "thumbnail": "https://StudyPlaying.github.io/images/427.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "running-late",
+    "thumbnail": "https://StudyPlaying.github.io/images/428.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "monster-slayers",
+    "thumbnail": "https://StudyPlaying.github.io/images/429.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "bitgoblins-rpg-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/430.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "happy-glass-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/431.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sort-tiles",
+    "thumbnail": "https://StudyPlaying.github.io/images/432.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "merge-hospital",
+    "thumbnail": "https://StudyPlaying.github.io/images/433.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "solitaire-deluxe-edition",
+    "thumbnail": "https://StudyPlaying.github.io/images/434.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "stickman-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/435.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "travel-story-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/436.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "metal-guns-fury",
+    "thumbnail": "https://StudyPlaying.github.io/images/437.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arrowtix-train-your-brain",
+    "thumbnail": "https://StudyPlaying.github.io/images/438.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "race-time",
+    "thumbnail": "https://StudyPlaying.github.io/images/439.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bottle-logic",
+    "thumbnail": "https://StudyPlaying.github.io/images/440.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shanghai-chef",
+    "thumbnail": "https://StudyPlaying.github.io/images/441.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-cards-the-legend-hunt",
+    "thumbnail": "https://StudyPlaying.github.io/images/442.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-subzero",
+    "thumbnail": "https://StudyPlaying.github.io/images/443.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bell-madness",
+    "thumbnail": "https://StudyPlaying.github.io/images/444.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "solitaire-mahjong-farm-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/445.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "2-cars-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/446.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "balls-vs-lasers",
+    "thumbnail": "https://StudyPlaying.github.io/images/447.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "money-man-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/448.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mahjong-magic-islands",
+    "thumbnail": "https://StudyPlaying.github.io/images/449.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "kiss-o-neck",
+    "thumbnail": "https://StudyPlaying.github.io/images/450.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "busy-bee-hive",
+    "thumbnail": "https://StudyPlaying.github.io/images/451.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "idle-dairy-farm-tycoon",
+    "thumbnail": "https://StudyPlaying.github.io/images/452.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-motorbike-super-hero-stunt-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/453.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "cube-speed-dash",
+    "thumbnail": "https://StudyPlaying.github.io/images/454.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dino-hunter-king",
+    "thumbnail": "https://StudyPlaying.github.io/images/455.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "high-heel-design",
+    "thumbnail": "https://StudyPlaying.github.io/images/456.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blocops",
+    "thumbnail": "https://StudyPlaying.github.io/images/457.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-dismount-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/458.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pimple-squeeze",
+    "thumbnail": "https://StudyPlaying.github.io/images/459.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sneaker-art",
+    "thumbnail": "https://StudyPlaying.github.io/images/460.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "construction-set-3d-builder",
+    "thumbnail": "https://StudyPlaying.github.io/images/461.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "xmas-hexa-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/462.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sandstorm-covert-ops",
+    "thumbnail": "https://StudyPlaying.github.io/images/463.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mahjong-connect-fish-world",
+    "thumbnail": "https://StudyPlaying.github.io/images/464.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "autumn-glam-gala",
+    "thumbnail": "https://StudyPlaying.github.io/images/465.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-monster-survivors",
+    "thumbnail": "https://StudyPlaying.github.io/images/466.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "jumpers-quest",
+    "thumbnail": "https://StudyPlaying.github.io/images/467.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "secret-rooms",
+    "thumbnail": "https://StudyPlaying.github.io/images/468.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "planet-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/469.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "harbor-operator",
+    "thumbnail": "https://StudyPlaying.github.io/images/470.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "club-tycoon-idle-clicker",
+    "thumbnail": "https://StudyPlaying.github.io/images/471.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "little-candy-bakery",
+    "thumbnail": "https://StudyPlaying.github.io/images/472.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "supermarket-shopping-for-kids",
+    "thumbnail": "https://StudyPlaying.github.io/images/473.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "witchy-and-the-puzzle-adventures",
+    "thumbnail": "https://StudyPlaying.github.io/images/474.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "rotate-rings-circle-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/475.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arcade-rope",
+    "thumbnail": "https://StudyPlaying.github.io/images/476.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mickey-run-adventure-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/477.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "labo-brick-train-game-for-kids",
+    "thumbnail": "https://StudyPlaying.github.io/images/478.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-racer-stunts-car",
+    "thumbnail": "https://StudyPlaying.github.io/images/479.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cargo-path-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/480.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "sprunki-find-the-differences",
+    "thumbnail": "https://StudyPlaying.github.io/images/481.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "badlands-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/482.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "paris-kiss",
+    "thumbnail": "https://StudyPlaying.github.io/images/483.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cuberealm-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/484.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-screw-rescue-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/485.webp",
+    "genre": "Care, Match-3"
+  },
+  {
+    "id": "shark-chomp-chase",
+    "thumbnail": "https://StudyPlaying.github.io/images/486.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "farm-triple-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/487.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "fish-rain-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/488.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "diamondz",
+    "thumbnail": "https://StudyPlaying.github.io/images/489.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "run-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/490.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "slicer-duo",
+    "thumbnail": "https://StudyPlaying.github.io/images/491.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "best-friends-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/492.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ninja-spell-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/493.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "plants-vs-zombies-war",
+    "thumbnail": "https://StudyPlaying.github.io/images/494.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "fairy-wingerella",
+    "thumbnail": "https://StudyPlaying.github.io/images/495.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "my-perfect-farm",
+    "thumbnail": "https://StudyPlaying.github.io/images/496.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "murder-stone-age",
+    "thumbnail": "https://StudyPlaying.github.io/images/497.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jet-fighter-airplane-racing",
+    "thumbnail": "https://StudyPlaying.github.io/images/498.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "ragdoll-mega-dunk",
+    "thumbnail": "https://StudyPlaying.github.io/images/499.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "cosmic-tetriz-puzzles",
+    "thumbnail": "https://StudyPlaying.github.io/images/500.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "divinex",
+    "thumbnail": "https://StudyPlaying.github.io/images/501.webp",
+    "genre": "Art, Mahjong & Connect"
+  },
+  {
+    "id": "cryptoword",
+    "thumbnail": "https://StudyPlaying.github.io/images/502.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-match-8x8",
+    "thumbnail": "https://StudyPlaying.github.io/images/503.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "drill-quest",
+    "thumbnail": "https://StudyPlaying.github.io/images/504.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://StudyPlaying.github.io/images/505.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-the-coins-ussr",
+    "thumbnail": "https://StudyPlaying.github.io/images/506.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spring-magic-enchanted-wardrobe",
+    "thumbnail": "https://StudyPlaying.github.io/images/507.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "magic-bubbles",
+    "thumbnail": "https://StudyPlaying.github.io/images/508.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/509.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-match-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/510.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "block-craft-3d-school",
+    "thumbnail": "https://StudyPlaying.github.io/images/511.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fruit-mahjong-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/512.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "openguessr",
+    "thumbnail": "https://StudyPlaying.github.io/images/513.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "duet-cats-halloween-cat-music",
+    "thumbnail": "https://StudyPlaying.github.io/images/514.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spider-rope-hero-city-fight",
+    "thumbnail": "https://StudyPlaying.github.io/images/515.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mini-games-puzzle-collection",
+    "thumbnail": "https://StudyPlaying.github.io/images/516.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "duo-family-santa",
+    "thumbnail": "https://StudyPlaying.github.io/images/517.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "color-maze",
+    "thumbnail": "https://StudyPlaying.github.io/images/518.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ice-fishing-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/519.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mr-long-legs",
+    "thumbnail": "https://StudyPlaying.github.io/images/520.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bombardino-crocodilo-terror-jumpscare",
+    "thumbnail": "https://StudyPlaying.github.io/images/521.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "summer-triple-mahjong",
+    "thumbnail": "https://StudyPlaying.github.io/images/522.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "superpixelint",
+    "thumbnail": "https://StudyPlaying.github.io/images/523.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "foot-hospital",
+    "thumbnail": "https://StudyPlaying.github.io/images/524.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "dots-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/525.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "secrets-of-charmland",
+    "thumbnail": "https://StudyPlaying.github.io/images/526.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daring-jack",
+    "thumbnail": "https://StudyPlaying.github.io/images/527.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "tileman-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/528.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/529.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "daily-jewels-blitz-mahjong",
+    "thumbnail": "https://StudyPlaying.github.io/images/530.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "art-puzzle-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/531.webp",
+    "genre": "Puzzle, Art, Casual"
+  },
+  {
+    "id": "lucky-brainrot-blocks-online",
+    "thumbnail": "https://StudyPlaying.github.io/images/532.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "seafaring-memory-challenge",
+    "thumbnail": "https://StudyPlaying.github.io/images/533.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "chickz-stack",
+    "thumbnail": "https://StudyPlaying.github.io/images/534.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "color-block-blast-3",
+    "thumbnail": "https://StudyPlaying.github.io/images/535.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "looper",
+    "thumbnail": "https://StudyPlaying.github.io/images/536.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-tile-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/537.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "among-squid-challenge-online",
+    "thumbnail": "https://StudyPlaying.github.io/images/538.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "ships-3d-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/539.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "royal-garden-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/540.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bublix-bubble-hit",
+    "thumbnail": "https://StudyPlaying.github.io/images/541.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "grand-clash-arena",
+    "thumbnail": "https://StudyPlaying.github.io/images/542.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "playground-parkour",
+    "thumbnail": "https://StudyPlaying.github.io/images/543.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "kingdom-wars-td",
+    "thumbnail": "https://StudyPlaying.github.io/images/544.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "solitaire-tail",
+    "thumbnail": "https://StudyPlaying.github.io/images/545.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "sudoku-pingames",
+    "thumbnail": "https://StudyPlaying.github.io/images/546.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "card-quest-10-minute-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/547.webp",
+    "genre": "Boardgames, Cards"
+  },
+  {
+    "id": "tsunami-brainrots-online",
+    "thumbnail": "https://StudyPlaying.github.io/images/548.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "obby-on-a-bike",
+    "thumbnail": "https://StudyPlaying.github.io/images/549.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pixel-shoot",
+    "thumbnail": "https://StudyPlaying.github.io/images/550.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-clicker",
+    "thumbnail": "https://StudyPlaying.github.io/images/551.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "devil-dash",
+    "thumbnail": "https://StudyPlaying.github.io/images/552.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "disassemble-the-picture-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/553.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "my-fire-station-world",
+    "thumbnail": "https://StudyPlaying.github.io/images/554.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "angry-city-smasher",
+    "thumbnail": "https://StudyPlaying.github.io/images/555.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "tricky-challenges-mini-games",
+    "thumbnail": "https://StudyPlaying.github.io/images/556.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lazy-workers",
+    "thumbnail": "https://StudyPlaying.github.io/images/557.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lucy-all-season-fashioninsta",
+    "thumbnail": "https://StudyPlaying.github.io/images/558.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dream-restaurant-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/559.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "craftsman-3d-gangster",
+    "thumbnail": "https://StudyPlaying.github.io/images/560.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "idle-trade-routes",
+    "thumbnail": "https://StudyPlaying.github.io/images/561.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "boom-stick-bazooka",
+    "thumbnail": "https://StudyPlaying.github.io/images/562.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-blast-2048",
+    "thumbnail": "https://StudyPlaying.github.io/images/563.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pet-connect-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/564.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jailbreak-escape-from-prison",
+    "thumbnail": "https://StudyPlaying.github.io/images/565.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "blackriver-mystery-hidden-objects",
+    "thumbnail": "https://StudyPlaying.github.io/images/566.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tarcat",
+    "thumbnail": "https://StudyPlaying.github.io/images/567.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "dear-island",
+    "thumbnail": "https://StudyPlaying.github.io/images/568.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-guys-defense",
+    "thumbnail": "https://StudyPlaying.github.io/images/569.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "cyber-highway-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/570.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "football-heads-2025",
+    "thumbnail": "https://StudyPlaying.github.io/images/571.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "prsino",
+    "thumbnail": "https://StudyPlaying.github.io/images/572.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sid-ginny-y2k-glam-clash",
+    "thumbnail": "https://StudyPlaying.github.io/images/573.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "egg-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/574.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "snow-rush-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/575.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hospital-inc",
+    "thumbnail": "https://StudyPlaying.github.io/images/576.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bolts-and-nuts-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/577.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gross-out-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/578.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hot-cold-winter-style",
+    "thumbnail": "https://StudyPlaying.github.io/images/579.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "heroes-of-the-arena",
+    "thumbnail": "https://StudyPlaying.github.io/images/580.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "worm-apple-quest",
+    "thumbnail": "https://StudyPlaying.github.io/images/581.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bouncing-chick",
+    "thumbnail": "https://StudyPlaying.github.io/images/582.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mobile-phone-case-diy",
+    "thumbnail": "https://StudyPlaying.github.io/images/583.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gun-builder",
+    "thumbnail": "https://StudyPlaying.github.io/images/584.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "stick-rope-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/585.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fashion-valkyries-saga-of-style",
+    "thumbnail": "https://StudyPlaying.github.io/images/586.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "chicken-wild-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/587.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "wacky-strike",
+    "thumbnail": "https://StudyPlaying.github.io/images/588.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "scary-baby-yellow-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/589.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "from-nerds-to-beauties",
+    "thumbnail": "https://StudyPlaying.github.io/images/590.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "jump-man",
+    "thumbnail": "https://StudyPlaying.github.io/images/591.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "sudoku",
+    "thumbnail": "https://StudyPlaying.github.io/images/592.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "stack-n-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/593.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "clownfish-pin-out",
+    "thumbnail": "https://StudyPlaying.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "panda-dash-auto-shooting",
+    "thumbnail": "https://StudyPlaying.github.io/images/595.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "super-hero-driving-school",
+    "thumbnail": "https://StudyPlaying.github.io/images/596.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tile-match-cafe",
+    "thumbnail": "https://StudyPlaying.github.io/images/597.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mojicon-emoji-connect",
+    "thumbnail": "https://StudyPlaying.github.io/images/598.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "math-wall-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/599.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "the-white-room-5",
+    "thumbnail": "https://StudyPlaying.github.io/images/600.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "typing-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/601.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "om-nom-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/602.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fashion-stylist-salon-makeover",
+    "thumbnail": "https://StudyPlaying.github.io/images/603.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "soft-girls-winter-aesthetics",
+    "thumbnail": "https://StudyPlaying.github.io/images/604.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "feed-the-parrot",
+    "thumbnail": "https://StudyPlaying.github.io/images/605.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "tile-match-connect-3-tiles",
+    "thumbnail": "https://StudyPlaying.github.io/images/606.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "jigsort-puzzles",
+    "thumbnail": "https://StudyPlaying.github.io/images/607.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "halloween-challenge",
+    "thumbnail": "https://StudyPlaying.github.io/images/608.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "airport-security",
+    "thumbnail": "https://StudyPlaying.github.io/images/609.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "space-craft-ship-war",
+    "thumbnail": "https://StudyPlaying.github.io/images/610.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "animal-block-pop-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/611.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "words-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/612.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "arrow-tap-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/613.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zero-to-millionaire",
+    "thumbnail": "https://StudyPlaying.github.io/images/614.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "forest-tiles",
+    "thumbnail": "https://StudyPlaying.github.io/images/615.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "champions-fc",
+    "thumbnail": "https://StudyPlaying.github.io/images/616.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "obby-survive-parkour",
+    "thumbnail": "https://StudyPlaying.github.io/images/617.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "domino-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/618.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "counter-craft-sniper",
+    "thumbnail": "https://StudyPlaying.github.io/images/619.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/620.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "magic-princess-dress-up-doll",
+    "thumbnail": "https://StudyPlaying.github.io/images/621.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "strike-breakout",
+    "thumbnail": "https://StudyPlaying.github.io/images/622.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "agent-hunt-spy-shooter-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/623.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "ultimate-destruction-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/624.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hexa-sort-winter-edition",
+    "thumbnail": "https://StudyPlaying.github.io/images/625.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "valentines-makeup-trends",
+    "thumbnail": "https://StudyPlaying.github.io/images/626.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "magic-beauty-makeup",
+    "thumbnail": "https://StudyPlaying.github.io/images/627.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "paperio-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/628.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "hoop-world-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/629.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "bubble-plopper",
+    "thumbnail": "https://StudyPlaying.github.io/images/630.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "car-care-repair-dudu-mechanic",
+    "thumbnail": "https://StudyPlaying.github.io/images/631.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "about-a-frog",
+    "thumbnail": "https://StudyPlaying.github.io/images/632.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "escape-the-horror-craft",
+    "thumbnail": "https://StudyPlaying.github.io/images/633.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "fishing-the-russian-way",
+    "thumbnail": "https://StudyPlaying.github.io/images/634.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "labuba-halloween-infestation",
+    "thumbnail": "https://StudyPlaying.github.io/images/635.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "grass-land",
+    "thumbnail": "https://StudyPlaying.github.io/images/636.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "fight-for-the-tree",
+    "thumbnail": "https://StudyPlaying.github.io/images/637.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "catch-the-goose",
+    "thumbnail": "https://StudyPlaying.github.io/images/638.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "i-am-monkey",
+    "thumbnail": "https://StudyPlaying.github.io/images/639.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "monster-school-vs-siren-head",
+    "thumbnail": "https://StudyPlaying.github.io/images/640.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "gin-rummy",
+    "thumbnail": "https://StudyPlaying.github.io/images/641.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "cloneup-stack-yourself",
+    "thumbnail": "https://StudyPlaying.github.io/images/642.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hex-sense",
+    "thumbnail": "https://StudyPlaying.github.io/images/643.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grannys-classroom-nightmare",
+    "thumbnail": "https://StudyPlaying.github.io/images/644.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "celebrity-spring-manicure-design",
+    "thumbnail": "https://StudyPlaying.github.io/images/645.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "float-for-brainrots",
+    "thumbnail": "https://StudyPlaying.github.io/images/646.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fray-fight",
+    "thumbnail": "https://StudyPlaying.github.io/images/647.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crime-theft-gangster-paradise",
+    "thumbnail": "https://StudyPlaying.github.io/images/648.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "face-changes",
+    "thumbnail": "https://StudyPlaying.github.io/images/649.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tiny-cars",
+    "thumbnail": "https://StudyPlaying.github.io/images/650.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3d-ball-balancer",
+    "thumbnail": "https://StudyPlaying.github.io/images/651.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "running-in-foam",
+    "thumbnail": "https://StudyPlaying.github.io/images/652.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ninja-time",
+    "thumbnail": "https://StudyPlaying.github.io/images/653.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "practice-on-me",
+    "thumbnail": "https://StudyPlaying.github.io/images/654.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fun-iq-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/655.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "match-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/656.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "barbee-met-gala-transformation",
+    "thumbnail": "https://StudyPlaying.github.io/images/657.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "winter-gifts",
+    "thumbnail": "https://StudyPlaying.github.io/images/658.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "flowball",
+    "thumbnail": "https://StudyPlaying.github.io/images/659.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "moon-league-sports-season",
+    "thumbnail": "https://StudyPlaying.github.io/images/660.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "squid-escape-but-blockworld",
+    "thumbnail": "https://StudyPlaying.github.io/images/661.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "stickman-the-flash",
+    "thumbnail": "https://StudyPlaying.github.io/images/662.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "knots",
+    "thumbnail": "https://StudyPlaying.github.io/images/663.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fragen",
+    "thumbnail": "https://StudyPlaying.github.io/images/664.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "room-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/665.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tail-gun-charlie",
+    "thumbnail": "https://StudyPlaying.github.io/images/666.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "gun-racing",
+    "thumbnail": "https://StudyPlaying.github.io/images/667.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "tony-archer",
+    "thumbnail": "https://StudyPlaying.github.io/images/668.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "my-city-hospital",
+    "thumbnail": "https://StudyPlaying.github.io/images/669.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "greedy-snake-brain-hole-explosion",
+    "thumbnail": "https://StudyPlaying.github.io/images/670.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "gladiators-merge-and-fight",
+    "thumbnail": "https://StudyPlaying.github.io/images/671.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "brainrot-click-to-hatch",
+    "thumbnail": "https://StudyPlaying.github.io/images/672.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "help-me-tricky-brain-puzzles",
+    "thumbnail": "https://StudyPlaying.github.io/images/673.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki-monster-music-beats",
+    "thumbnail": "https://StudyPlaying.github.io/images/674.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-sorting-mart",
+    "thumbnail": "https://StudyPlaying.github.io/images/675.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://StudyPlaying.github.io/images/676.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "christmas-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/677.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "moto-attack-bike-racing",
+    "thumbnail": "https://StudyPlaying.github.io/images/678.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "italian-brainrot-baby-clicker",
+    "thumbnail": "https://StudyPlaying.github.io/images/679.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cannon-blast-the-last-stand",
+    "thumbnail": "https://StudyPlaying.github.io/images/680.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "purrfect-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/681.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cube-drop-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/682.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "labubu-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/683.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "nuts-bolts-screw-glass",
+    "thumbnail": "https://StudyPlaying.github.io/images/684.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jungle-match-adventures",
+    "thumbnail": "https://StudyPlaying.github.io/images/685.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "make-it-boom",
+    "thumbnail": "https://StudyPlaying.github.io/images/686.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blocks-stack-rush",
+    "thumbnail": "https://StudyPlaying.github.io/images/687.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cat-life-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/688.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "fishing-fishes",
+    "thumbnail": "https://StudyPlaying.github.io/images/689.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sprunki-gets-surgery",
+    "thumbnail": "https://StudyPlaying.github.io/images/690.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "puzzle-blocks-fill-it-completely",
+    "thumbnail": "https://StudyPlaying.github.io/images/691.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "party-games-mini-shooter-battle",
+    "thumbnail": "https://StudyPlaying.github.io/images/692.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "spring-tile-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/693.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "sort-water-now",
+    "thumbnail": "https://StudyPlaying.github.io/images/694.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cinderella-dress-up-girl-games",
+    "thumbnail": "https://StudyPlaying.github.io/images/695.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "citymix-solitaire",
+    "thumbnail": "https://StudyPlaying.github.io/images/696.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "flow-block",
+    "thumbnail": "https://StudyPlaying.github.io/images/697.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "survival-racing-extreme-road",
+    "thumbnail": "https://StudyPlaying.github.io/images/698.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hangman-saga",
+    "thumbnail": "https://StudyPlaying.github.io/images/699.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "tictoc-urban-outfits",
+    "thumbnail": "https://StudyPlaying.github.io/images/700.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "lamphead",
+    "thumbnail": "https://StudyPlaying.github.io/images/701.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "goods-triple-match-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/702.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-wave",
+    "thumbnail": "https://StudyPlaying.github.io/images/703.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "restaurant-simulator-burgers-pizza",
+    "thumbnail": "https://StudyPlaying.github.io/images/704.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "football-heads-2026",
+    "thumbnail": "https://StudyPlaying.github.io/images/705.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://StudyPlaying.github.io/images/706.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "going-balls-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/707.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fennec-the-fox-click-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/708.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "student-and-teacher",
+    "thumbnail": "https://StudyPlaying.github.io/images/709.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "codequest",
+    "thumbnail": "https://StudyPlaying.github.io/images/710.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-magnat-ideal-store",
+    "thumbnail": "https://StudyPlaying.github.io/images/711.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "animal-blocks",
+    "thumbnail": "https://StudyPlaying.github.io/images/712.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "merge-squares",
+    "thumbnail": "https://StudyPlaying.github.io/images/713.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "eat-donuts",
+    "thumbnail": "https://StudyPlaying.github.io/images/714.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crazy-bar-brawl",
+    "thumbnail": "https://StudyPlaying.github.io/images/715.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "happy-fluffy-cubes",
+    "thumbnail": "https://StudyPlaying.github.io/images/716.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chicken-wars-merge-guns",
+    "thumbnail": "https://StudyPlaying.github.io/images/717.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "2020-connect",
+    "thumbnail": "https://StudyPlaying.github.io/images/718.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "popping-pets",
+    "thumbnail": "https://StudyPlaying.github.io/images/719.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "magic-tiles-3",
+    "thumbnail": "https://StudyPlaying.github.io/images/720.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blankets",
+    "thumbnail": "https://StudyPlaying.github.io/images/721.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hero-wizard-save-your-girlfriend",
+    "thumbnail": "https://StudyPlaying.github.io/images/722.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "block-blast-jewel-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/723.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-prison-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/724.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "escape-or-die-troll-devil-levels",
+    "thumbnail": "https://StudyPlaying.github.io/images/725.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "backrooms-among-impostor-rolling-giant",
+    "thumbnail": "https://StudyPlaying.github.io/images/726.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "build-and-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/727.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "panda-lu-treehouse",
+    "thumbnail": "https://StudyPlaying.github.io/images/728.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "my-arcade-center",
+    "thumbnail": "https://StudyPlaying.github.io/images/729.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mini-golf-saga",
+    "thumbnail": "https://StudyPlaying.github.io/images/730.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "obby-tower",
+    "thumbnail": "https://StudyPlaying.github.io/images/731.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "stickman-halloween-survive",
+    "thumbnail": "https://StudyPlaying.github.io/images/732.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "fruit-jam-merge-puzzle-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/733.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "save-my-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/734.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cryptogram",
+    "thumbnail": "https://StudyPlaying.github.io/images/735.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "infinite-craft",
+    "thumbnail": "https://StudyPlaying.github.io/images/736.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sweet-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/737.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tower-of-hell-obby-blox",
+    "thumbnail": "https://StudyPlaying.github.io/images/738.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-massive-attack",
+    "thumbnail": "https://StudyPlaying.github.io/images/739.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "parking-driver",
+    "thumbnail": "https://StudyPlaying.github.io/images/740.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "army-truck-driver-online",
+    "thumbnail": "https://StudyPlaying.github.io/images/741.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "hard-rock-zombie-truck",
+    "thumbnail": "https://StudyPlaying.github.io/images/742.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "watermelon-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/743.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "match-3d-puzzle-saga",
+    "thumbnail": "https://StudyPlaying.github.io/images/744.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stacking-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/745.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-escape-school",
+    "thumbnail": "https://StudyPlaying.github.io/images/746.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "photo-block-journey",
+    "thumbnail": "https://StudyPlaying.github.io/images/747.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cube-stack-2048",
+    "thumbnail": "https://StudyPlaying.github.io/images/748.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "color-brain-test-games",
+    "thumbnail": "https://StudyPlaying.github.io/images/749.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ace-car-racing",
+    "thumbnail": "https://StudyPlaying.github.io/images/750.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "fruite-swipe",
+    "thumbnail": "https://StudyPlaying.github.io/images/751.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tank-battleio",
+    "thumbnail": "https://StudyPlaying.github.io/images/752.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "dynamons-12",
+    "thumbnail": "https://StudyPlaying.github.io/images/753.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "my-tiny-land",
+    "thumbnail": "https://StudyPlaying.github.io/images/754.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "roblox-halloween-costume-party",
+    "thumbnail": "https://StudyPlaying.github.io/images/755.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "idle-restaurant-tycoon",
+    "thumbnail": "https://StudyPlaying.github.io/images/756.webp",
+    "genre": "Cooking, Strategy"
+  },
+  {
+    "id": "tricky-castle",
+    "thumbnail": "https://StudyPlaying.github.io/images/757.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "toytopia",
+    "thumbnail": "https://StudyPlaying.github.io/images/758.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "geometry-arrow",
+    "thumbnail": "https://StudyPlaying.github.io/images/759.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "hyperspace---quantum-fracture-fez",
+    "thumbnail": "https://StudyPlaying.github.io/images/760.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ninja-crossword-challenge",
+    "thumbnail": "https://StudyPlaying.github.io/images/761.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://StudyPlaying.github.io/images/762.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cross-the-road",
+    "thumbnail": "https://StudyPlaying.github.io/images/763.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "find-6-differences-spot-the-hidden-changes",
+    "thumbnail": "https://StudyPlaying.github.io/images/764.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "anime-doll-diy-cosplay-girl",
+    "thumbnail": "https://StudyPlaying.github.io/images/765.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "minigiants-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/766.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-purrfect-cat-hotel",
+    "thumbnail": "https://StudyPlaying.github.io/images/767.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cat-pancake-diner",
+    "thumbnail": "https://StudyPlaying.github.io/images/768.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "space-shooter-speed-typing-challenge",
+    "thumbnail": "https://StudyPlaying.github.io/images/769.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "candy-maker-dessert-games",
+    "thumbnail": "https://StudyPlaying.github.io/images/770.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "defenders-of-the-realm-an-epic-war",
+    "thumbnail": "https://StudyPlaying.github.io/images/771.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sweeper-curling",
+    "thumbnail": "https://StudyPlaying.github.io/images/772.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "slide-them-away",
+    "thumbnail": "https://StudyPlaying.github.io/images/773.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cloak-master-shooter-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/774.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "geometry-open-world",
+    "thumbnail": "https://StudyPlaying.github.io/images/775.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "tile-hexa-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/776.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pottery-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/777.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mini-golf-battle",
+    "thumbnail": "https://StudyPlaying.github.io/images/778.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "avatar-life-my-town",
+    "thumbnail": "https://StudyPlaying.github.io/images/779.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "coin-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/780.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "family-pet-dog-games",
+    "thumbnail": "https://StudyPlaying.github.io/images/781.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "car-simulator-3d-car-game-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/782.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "farm-business-saga",
+    "thumbnail": "https://StudyPlaying.github.io/images/783.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "crazy-alien-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/784.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-fight-pro",
+    "thumbnail": "https://StudyPlaying.github.io/images/785.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "royal-jewels-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/786.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "celebrity-thanksgiving-prep",
+    "thumbnail": "https://StudyPlaying.github.io/images/787.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "happy-farm-the-crop",
+    "thumbnail": "https://StudyPlaying.github.io/images/788.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "push-to-go",
+    "thumbnail": "https://StudyPlaying.github.io/images/789.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "art-salon",
+    "thumbnail": "https://StudyPlaying.github.io/images/790.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "cute-craft-lab",
+    "thumbnail": "https://StudyPlaying.github.io/images/791.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "colorsforms",
+    "thumbnail": "https://StudyPlaying.github.io/images/792.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "agent-zero-infiltration",
+    "thumbnail": "https://StudyPlaying.github.io/images/793.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-leave-prison",
+    "thumbnail": "https://StudyPlaying.github.io/images/794.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "sword-life",
+    "thumbnail": "https://StudyPlaying.github.io/images/795.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "minetap",
+    "thumbnail": "https://StudyPlaying.github.io/images/796.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-it-in-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/797.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "tap-to-color-painting-book",
+    "thumbnail": "https://StudyPlaying.github.io/images/798.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "agents-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/799.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "chain-cube-2048-3d-merge-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/800.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "save-the-crop",
+    "thumbnail": "https://StudyPlaying.github.io/images/801.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tangle-master-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/802.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bears-vs-art",
+    "thumbnail": "https://StudyPlaying.github.io/images/803.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "halloween-fruit-slice",
+    "thumbnail": "https://StudyPlaying.github.io/images/804.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "timewarriors",
+    "thumbnail": "https://StudyPlaying.github.io/images/805.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "sortstore",
+    "thumbnail": "https://StudyPlaying.github.io/images/806.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "foxy-eco-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/807.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "potion-merge-witch",
+    "thumbnail": "https://StudyPlaying.github.io/images/808.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "serious-head",
+    "thumbnail": "https://StudyPlaying.github.io/images/809.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "block-puzzle-frozen-jewel",
+    "thumbnail": "https://StudyPlaying.github.io/images/810.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nonogram-daily",
+    "thumbnail": "https://StudyPlaying.github.io/images/811.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "world-soccer",
+    "thumbnail": "https://StudyPlaying.github.io/images/812.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "sokoban-pr",
+    "thumbnail": "https://StudyPlaying.github.io/images/813.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "classic-labyrinth-3d-maze",
+    "thumbnail": "https://StudyPlaying.github.io/images/814.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "hospital-surgeon-doctor-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/815.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "xmas-presents-mahjong",
+    "thumbnail": "https://StudyPlaying.github.io/images/816.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mini-games-relax-collection-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/817.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3d-super-rolling-ball-race",
+    "thumbnail": "https://StudyPlaying.github.io/images/818.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "dungeons-n-ducks",
+    "thumbnail": "https://StudyPlaying.github.io/images/819.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-cut-cleaner",
+    "thumbnail": "https://StudyPlaying.github.io/images/820.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/821.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "2048-snakeio",
+    "thumbnail": "https://StudyPlaying.github.io/images/822.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "cs-upgrade-gun",
+    "thumbnail": "https://StudyPlaying.github.io/images/823.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sea-monsters-mahjong",
+    "thumbnail": "https://StudyPlaying.github.io/images/824.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "geometry-dash-maze-maps",
+    "thumbnail": "https://StudyPlaying.github.io/images/825.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "truck-stack-colors",
+    "thumbnail": "https://StudyPlaying.github.io/images/826.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "asmr-washing-fixing",
+    "thumbnail": "https://StudyPlaying.github.io/images/827.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "planetarium-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/828.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "excavator-simulator-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/829.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "clicker-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/830.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "car-crash-test-abandoned-city",
+    "thumbnail": "https://StudyPlaying.github.io/images/831.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "journey-of-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/832.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "barry-prison-christmas-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/833.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cake-link-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/834.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "princess-run-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/835.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "roof-car-stunt",
+    "thumbnail": "https://StudyPlaying.github.io/images/836.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fruit-goals-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/837.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "candy-carver",
+    "thumbnail": "https://StudyPlaying.github.io/images/838.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "skibidi-toilet-vs-cameraman-sniper-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/839.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "pet-salon-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/840.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "mind-games-for-2-3-4-player",
+    "thumbnail": "https://StudyPlaying.github.io/images/841.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "pick-brainrot-3d-battle",
+    "thumbnail": "https://StudyPlaying.github.io/images/842.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tricky-arrow-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/843.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "jump-in-to-the-plane",
+    "thumbnail": "https://StudyPlaying.github.io/images/844.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "ballistic-breakthrough",
+    "thumbnail": "https://StudyPlaying.github.io/images/845.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "monster-truck-crush",
+    "thumbnail": "https://StudyPlaying.github.io/images/846.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hotel-manager",
+    "thumbnail": "https://StudyPlaying.github.io/images/847.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "dead-brain",
+    "thumbnail": "https://StudyPlaying.github.io/images/848.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hero-rabbit-idle-survivor-rpg",
+    "thumbnail": "https://StudyPlaying.github.io/images/849.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "jump-ball-classic",
+    "thumbnail": "https://StudyPlaying.github.io/images/850.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-to-crush-monster-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/851.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "math-quest",
+    "thumbnail": "https://StudyPlaying.github.io/images/852.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gods-mixer",
+    "thumbnail": "https://StudyPlaying.github.io/images/853.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "supermarket-simulator-dream-store",
+    "thumbnail": "https://StudyPlaying.github.io/images/854.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "backrooms",
+    "thumbnail": "https://StudyPlaying.github.io/images/855.webp",
+    "genre": "Puzzle, Battle"
+  },
+  {
+    "id": "italian-animals-create-your-own-brainrot",
+    "thumbnail": "https://StudyPlaying.github.io/images/856.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "clockwork",
+    "thumbnail": "https://StudyPlaying.github.io/images/857.webp",
+    "genre": "Unblocked, WebGame, Github.io, Bookmark, Bookmarklet"
+  },
+  {
+    "id": "blue-hedgehog-hill-dash-ride",
+    "thumbnail": "https://StudyPlaying.github.io/images/858.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "gobattleio",
+    "thumbnail": "https://StudyPlaying.github.io/images/859.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sheep-sort-puzzle-sort-color",
+    "thumbnail": "https://StudyPlaying.github.io/images/860.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cricket-clash-pong",
+    "thumbnail": "https://StudyPlaying.github.io/images/861.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "mega-ramp-bike-racing-tracks",
+    "thumbnail": "https://StudyPlaying.github.io/images/862.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://StudyPlaying.github.io/images/863.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "word-connect-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/864.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "global-city-qkk",
+    "thumbnail": "https://StudyPlaying.github.io/images/865.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flag-master-world-flags-quiz",
+    "thumbnail": "https://StudyPlaying.github.io/images/866.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "mission-santa-deliver-the-gifts",
+    "thumbnail": "https://StudyPlaying.github.io/images/867.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "quizmania-trivia-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/868.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "mojicon-fruit-connect",
+    "thumbnail": "https://StudyPlaying.github.io/images/869.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "puzzle-solitaire-picture-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/870.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "hexa-stack-christmas",
+    "thumbnail": "https://StudyPlaying.github.io/images/871.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "parking-fury-3d-beach-city-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/872.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "square-world-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/873.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "tentrix",
+    "thumbnail": "https://StudyPlaying.github.io/images/874.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rope-stitch-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/875.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "mindblow",
+    "thumbnail": "https://StudyPlaying.github.io/images/876.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bus-jam-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/877.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "forest-glade-mysteries",
+    "thumbnail": "https://StudyPlaying.github.io/images/878.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "puzzle-blocks",
+    "thumbnail": "https://StudyPlaying.github.io/images/879.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-market-tycoon",
+    "thumbnail": "https://StudyPlaying.github.io/images/880.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "magic-and-wizards-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/881.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "run-from-baba-yaga",
+    "thumbnail": "https://StudyPlaying.github.io/images/882.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "metro-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/883.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "makeup-trends-then-and-now",
+    "thumbnail": "https://StudyPlaying.github.io/images/884.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rent-out-landlord-tycoon",
+    "thumbnail": "https://StudyPlaying.github.io/images/885.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "zombie-arena-2-fury-road",
+    "thumbnail": "https://StudyPlaying.github.io/images/886.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "sort-works-nuts-order",
+    "thumbnail": "https://StudyPlaying.github.io/images/887.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sort-game-toy-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/888.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hair-stack-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/889.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "police-chase-drifter",
+    "thumbnail": "https://StudyPlaying.github.io/images/890.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "diy-phone-case-shop",
+    "thumbnail": "https://StudyPlaying.github.io/images/891.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "home-rush-the-fish-war",
+    "thumbnail": "https://StudyPlaying.github.io/images/892.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://StudyPlaying.github.io/images/893.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "speed-run-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/894.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "paw-clash",
+    "thumbnail": "https://StudyPlaying.github.io/images/895.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "animals-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/896.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-soccer-noggins",
+    "thumbnail": "https://StudyPlaying.github.io/images/897.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "dan-the-man",
+    "thumbnail": "https://StudyPlaying.github.io/images/898.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "solitaire-klondike-treasure-island",
+    "thumbnail": "https://StudyPlaying.github.io/images/899.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "pull-the-thread-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/900.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-fruit",
+    "thumbnail": "https://StudyPlaying.github.io/images/901.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "color-mix-jelly-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/902.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "taylor-dress-studio-preppy-wild-west-glam",
+    "thumbnail": "https://StudyPlaying.github.io/images/903.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "candy-crunch-sugar-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/904.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "money-chaser-city-parkour-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/905.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mojo-emoji",
+    "thumbnail": "https://StudyPlaying.github.io/images/906.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "happy-egg-catch",
+    "thumbnail": "https://StudyPlaying.github.io/images/907.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kitchen-sorting",
+    "thumbnail": "https://StudyPlaying.github.io/images/908.webp",
+    "genre": "Cooking, Puzzle"
+  },
+  {
+    "id": "hole-digger",
+    "thumbnail": "https://StudyPlaying.github.io/images/909.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dress-princess",
+    "thumbnail": "https://StudyPlaying.github.io/images/910.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "moto-race-city",
+    "thumbnail": "https://StudyPlaying.github.io/images/911.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-money-factory",
+    "thumbnail": "https://StudyPlaying.github.io/images/912.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "black-pink-stpatricks-day-concert",
+    "thumbnail": "https://StudyPlaying.github.io/images/913.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "smart-dots-reloaded",
+    "thumbnail": "https://StudyPlaying.github.io/images/914.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "building-mods-for-minecraft",
+    "thumbnail": "https://StudyPlaying.github.io/images/915.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "perfect-asmr-cleaning",
+    "thumbnail": "https://StudyPlaying.github.io/images/916.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "top-hog",
+    "thumbnail": "https://StudyPlaying.github.io/images/917.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/918.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "toilet-time",
+    "thumbnail": "https://StudyPlaying.github.io/images/919.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "screw-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/920.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "pop-fruit",
+    "thumbnail": "https://StudyPlaying.github.io/images/921.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "gold-miner-classic",
+    "thumbnail": "https://StudyPlaying.github.io/images/922.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gta-car-rush",
+    "thumbnail": "https://StudyPlaying.github.io/images/923.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "merge-fellas-online",
+    "thumbnail": "https://StudyPlaying.github.io/images/924.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "ropeway-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/925.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pops-quest",
+    "thumbnail": "https://StudyPlaying.github.io/images/926.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "world-war-2-shooter",
+    "thumbnail": "https://StudyPlaying.github.io/images/927.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "car-out-jam",
+    "thumbnail": "https://StudyPlaying.github.io/images/928.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "floof-my-pet-house",
+    "thumbnail": "https://StudyPlaying.github.io/images/929.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "savage-defenders",
+    "thumbnail": "https://StudyPlaying.github.io/images/930.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "ammo-rush-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/931.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "red-stickman-vs-craftmans",
+    "thumbnail": "https://StudyPlaying.github.io/images/932.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mall-anomaly",
+    "thumbnail": "https://StudyPlaying.github.io/images/933.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "steal-brainrot-monsters",
+    "thumbnail": "https://StudyPlaying.github.io/images/934.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "restaurant-vip-masterchef",
+    "thumbnail": "https://StudyPlaying.github.io/images/935.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "mahjong-crimes-puzzle-story",
+    "thumbnail": "https://StudyPlaying.github.io/images/936.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "crafty-town-merge-city",
+    "thumbnail": "https://StudyPlaying.github.io/images/937.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "garage-master-nuts-and-bolts",
+    "thumbnail": "https://StudyPlaying.github.io/images/938.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "planet-takeover",
+    "thumbnail": "https://StudyPlaying.github.io/images/939.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "lollipop-stack-run",
+    "thumbnail": "https://StudyPlaying.github.io/images/940.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "unblock-it-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/941.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "my-farm-empire",
+    "thumbnail": "https://StudyPlaying.github.io/images/942.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "zombies-weapon-merge-4",
+    "thumbnail": "https://StudyPlaying.github.io/images/943.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "hero-fight-clash",
+    "thumbnail": "https://StudyPlaying.github.io/images/944.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "princesses-at-horror-school",
+    "thumbnail": "https://StudyPlaying.github.io/images/945.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "merge-car-defense",
+    "thumbnail": "https://StudyPlaying.github.io/images/946.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tanks",
+    "thumbnail": "https://StudyPlaying.github.io/images/947.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "circuit-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/948.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dark-stones-card-battle-rpg",
+    "thumbnail": "https://StudyPlaying.github.io/images/949.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robybox-space-station-warehouse",
+    "thumbnail": "https://StudyPlaying.github.io/images/950.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hospital-game-happy-clinic",
+    "thumbnail": "https://StudyPlaying.github.io/images/951.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "military-cubes-2048",
+    "thumbnail": "https://StudyPlaying.github.io/images/952.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tile-sort-match-3",
+    "thumbnail": "https://StudyPlaying.github.io/images/953.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://StudyPlaying.github.io/images/954.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "cube-in-cube",
+    "thumbnail": "https://StudyPlaying.github.io/images/955.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jewel-legend-quest",
+    "thumbnail": "https://StudyPlaying.github.io/images/956.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombcopter",
+    "thumbnail": "https://StudyPlaying.github.io/images/957.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "horror-minecraft-partytime",
+    "thumbnail": "https://StudyPlaying.github.io/images/958.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "drawing-squares",
+    "thumbnail": "https://StudyPlaying.github.io/images/959.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "travel-with-me-asmr-edition",
+    "thumbnail": "https://StudyPlaying.github.io/images/960.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "animal-racing-idle-park",
+    "thumbnail": "https://StudyPlaying.github.io/images/961.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "save-baby-capybaras-pull-pin",
+    "thumbnail": "https://StudyPlaying.github.io/images/962.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ball-and-girlfriend",
+    "thumbnail": "https://StudyPlaying.github.io/images/963.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "butterfly-sort-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/964.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "furry-kung-fu",
+    "thumbnail": "https://StudyPlaying.github.io/images/965.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "draw-war",
+    "thumbnail": "https://StudyPlaying.github.io/images/966.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "fruit-balls-juicy-fusion",
+    "thumbnail": "https://StudyPlaying.github.io/images/967.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-riddles-egypt",
+    "thumbnail": "https://StudyPlaying.github.io/images/968.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "santa-go",
+    "thumbnail": "https://StudyPlaying.github.io/images/969.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "marble-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/970.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cinema-empire-idle-tycoon",
+    "thumbnail": "https://StudyPlaying.github.io/images/971.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "slide-stone",
+    "thumbnail": "https://StudyPlaying.github.io/images/972.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cuphead",
+    "thumbnail": "https://StudyPlaying.github.io/images/973.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "labubu-doll-mukbang-asmr-unblocked",
+    "thumbnail": "https://StudyPlaying.github.io/images/974.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "canasta-royale-offline",
+    "thumbnail": "https://StudyPlaying.github.io/images/975.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "find-the-cat-cat-search",
+    "thumbnail": "https://StudyPlaying.github.io/images/976.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "beat-music-battle",
+    "thumbnail": "https://StudyPlaying.github.io/images/977.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "diy-makeup-salon-spa-makeover-studio",
+    "thumbnail": "https://StudyPlaying.github.io/images/978.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "zombie-outbreak-survive",
+    "thumbnail": "https://StudyPlaying.github.io/images/979.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "blob-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/980.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "match-3-dream-room",
+    "thumbnail": "https://StudyPlaying.github.io/images/981.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "stickman-jailbreak-story",
+    "thumbnail": "https://StudyPlaying.github.io/images/982.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pull-the-pins",
+    "thumbnail": "https://StudyPlaying.github.io/images/983.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "water-sort-collections",
+    "thumbnail": "https://StudyPlaying.github.io/images/984.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "deadflip-frenzy",
+    "thumbnail": "https://StudyPlaying.github.io/images/985.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "blockpuzzle-color-blast",
+    "thumbnail": "https://StudyPlaying.github.io/images/986.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "papa-buzja",
+    "thumbnail": "https://StudyPlaying.github.io/images/987.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "blue-vs-red",
+    "thumbnail": "https://StudyPlaying.github.io/images/988.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "bolt-climb-tap-to-the-top",
+    "thumbnail": "https://StudyPlaying.github.io/images/989.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://StudyPlaying.github.io/images/990.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tap-block-puzzle-smash-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/991.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "unlock-the-bolts",
+    "thumbnail": "https://StudyPlaying.github.io/images/992.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "hamstercycle",
+    "thumbnail": "https://StudyPlaying.github.io/images/993.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cube-to-hole-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/994.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flower-shop",
+    "thumbnail": "https://StudyPlaying.github.io/images/995.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-tower-parkour-climb",
+    "thumbnail": "https://StudyPlaying.github.io/images/996.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "space-survivor",
+    "thumbnail": "https://StudyPlaying.github.io/images/997.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bubble-shooter-wonders-of-egypt",
+    "thumbnail": "https://StudyPlaying.github.io/images/998.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "kitten-never-dies",
+    "thumbnail": "https://StudyPlaying.github.io/images/999.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "archer-dungeon-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/1000.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "pushio",
+    "thumbnail": "https://StudyPlaying.github.io/images/1001.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "gas-station-junkyard-tycoon",
+    "thumbnail": "https://StudyPlaying.github.io/images/1002.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gmod-bombs",
+    "thumbnail": "https://StudyPlaying.github.io/images/1003.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "stick-man-battle-fighting",
+    "thumbnail": "https://StudyPlaying.github.io/images/1004.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "farmer-rush-idle-farm-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/1005.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-earth",
+    "thumbnail": "https://StudyPlaying.github.io/images/1006.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "christmas-sorting",
+    "thumbnail": "https://StudyPlaying.github.io/images/1007.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ufo-attack",
+    "thumbnail": "https://StudyPlaying.github.io/images/1008.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "pirates-mahjong",
+    "thumbnail": "https://StudyPlaying.github.io/images/1009.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "pesky-moles",
+    "thumbnail": "https://StudyPlaying.github.io/images/1010.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flick-shot-soccer",
+    "thumbnail": "https://StudyPlaying.github.io/images/1011.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "match-factory",
+    "thumbnail": "https://StudyPlaying.github.io/images/1012.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "knit-bears",
+    "thumbnail": "https://StudyPlaying.github.io/images/1013.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "draw-bridge-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1014.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-smash",
+    "thumbnail": "https://StudyPlaying.github.io/images/1015.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dalgona-game2",
+    "thumbnail": "https://StudyPlaying.github.io/images/1016.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "2-player-games-design-salon",
+    "thumbnail": "https://StudyPlaying.github.io/images/1017.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "2-3-4-player-games",
+    "thumbnail": "https://StudyPlaying.github.io/images/1018.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "wolf-life-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/1019.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "tropical-cubes-2048",
+    "thumbnail": "https://StudyPlaying.github.io/images/1020.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "k-pop-hunters-valentine-style",
+    "thumbnail": "https://StudyPlaying.github.io/images/1021.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mob-rush",
+    "thumbnail": "https://StudyPlaying.github.io/images/1022.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vibe-colouring",
+    "thumbnail": "https://StudyPlaying.github.io/images/1023.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "boss-market",
+    "thumbnail": "https://StudyPlaying.github.io/images/1024.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "shadow-stickman-fight",
+    "thumbnail": "https://StudyPlaying.github.io/images/1025.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "phantom-thief-cat-running",
+    "thumbnail": "https://StudyPlaying.github.io/images/1026.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wordler",
+    "thumbnail": "https://StudyPlaying.github.io/images/1027.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sword-and-spin",
+    "thumbnail": "https://StudyPlaying.github.io/images/1028.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "timewarriors",
+    "thumbnail": "https://StudyPlaying.github.io/images/1029.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squarehead-hero",
+    "thumbnail": "https://StudyPlaying.github.io/images/1030.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "car-collision-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/1031.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "rocket-sky",
+    "thumbnail": "https://StudyPlaying.github.io/images/1032.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bullet-heroes",
+    "thumbnail": "https://StudyPlaying.github.io/images/1033.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "woolloop-color-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1034.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "icolorcoin-sort-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1035.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gothic-knife",
+    "thumbnail": "https://StudyPlaying.github.io/images/1036.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "meme-challengeio",
+    "thumbnail": "https://StudyPlaying.github.io/images/1037.webp",
+    "genre": ".IO, Quiz"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://StudyPlaying.github.io/images/1038.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "alchemy-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1039.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "untangle-rings-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/1040.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "level-eaten",
+    "thumbnail": "https://StudyPlaying.github.io/images/1041.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emoji-guess",
+    "thumbnail": "https://StudyPlaying.github.io/images/1042.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "exit-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1043.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "word-of-fortune",
+    "thumbnail": "https://StudyPlaying.github.io/images/1044.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "avenger-guard",
+    "thumbnail": "https://StudyPlaying.github.io/images/1045.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "call-of-the-jungle-animal-evolution",
+    "thumbnail": "https://StudyPlaying.github.io/images/1046.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "riddlemath",
+    "thumbnail": "https://StudyPlaying.github.io/images/1047.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "happy-blocks",
+    "thumbnail": "https://StudyPlaying.github.io/images/1048.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nitro-speed-car-racing",
+    "thumbnail": "https://StudyPlaying.github.io/images/1049.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "foot-chinko-russia-2018",
+    "thumbnail": "https://StudyPlaying.github.io/images/1050.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-shot-secret-mission",
+    "thumbnail": "https://StudyPlaying.github.io/images/1051.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "flick-baseball-super-homerun",
+    "thumbnail": "https://StudyPlaying.github.io/images/1052.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "noob-jailbreak-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/1053.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "steam-sorter",
+    "thumbnail": "https://StudyPlaying.github.io/images/1054.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "squid-game-hunter",
+    "thumbnail": "https://StudyPlaying.github.io/images/1055.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "matching-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1056.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "emoji-challenge",
+    "thumbnail": "https://StudyPlaying.github.io/images/1057.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "iconic-halloween-costumes",
+    "thumbnail": "https://StudyPlaying.github.io/images/1058.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brain-test-iq-challenge-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/1059.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "toss-the-ring",
+    "thumbnail": "https://StudyPlaying.github.io/images/1060.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ayla-world-princess-life",
+    "thumbnail": "https://StudyPlaying.github.io/images/1061.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://StudyPlaying.github.io/images/1062.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grow-a-garden-online-offline",
+    "thumbnail": "https://StudyPlaying.github.io/images/1063.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "paperly-paper-plane-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/1064.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "battle-simulator-sandbox",
+    "thumbnail": "https://StudyPlaying.github.io/images/1065.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "dead-zone-mech-ops",
+    "thumbnail": "https://StudyPlaying.github.io/images/1066.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "rope-rescue-unique-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1067.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brick-blaze",
+    "thumbnail": "https://StudyPlaying.github.io/images/1068.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-car-parking-and-stunt",
+    "thumbnail": "https://StudyPlaying.github.io/images/1069.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "italian-brainrot-obby-parkour",
+    "thumbnail": "https://StudyPlaying.github.io/images/1070.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "snake-2048",
+    "thumbnail": "https://StudyPlaying.github.io/images/1071.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "crazy-hill-climbing",
+    "thumbnail": "https://StudyPlaying.github.io/images/1072.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "lol-surprise-omg-bb-driver",
+    "thumbnail": "https://StudyPlaying.github.io/images/1073.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "erase-the-extra-element",
+    "thumbnail": "https://StudyPlaying.github.io/images/1074.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "cat-football",
+    "thumbnail": "https://StudyPlaying.github.io/images/1075.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "port-shipping-tycoon",
+    "thumbnail": "https://StudyPlaying.github.io/images/1076.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hungry-snake-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/1077.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "alphabet-lore-maze",
+    "thumbnail": "https://StudyPlaying.github.io/images/1078.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "words-or-die",
+    "thumbnail": "https://StudyPlaying.github.io/images/1079.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "warfront",
+    "thumbnail": "https://StudyPlaying.github.io/images/1080.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "zumba-story",
+    "thumbnail": "https://StudyPlaying.github.io/images/1081.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-dogy-virtual-pet",
+    "thumbnail": "https://StudyPlaying.github.io/images/1082.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "chess-duel",
+    "thumbnail": "https://StudyPlaying.github.io/images/1083.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "axe-throw",
+    "thumbnail": "https://StudyPlaying.github.io/images/1084.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hotgear",
+    "thumbnail": "https://StudyPlaying.github.io/images/1085.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mine-2d-survival-herobrine",
+    "thumbnail": "https://StudyPlaying.github.io/images/1086.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stack-fall",
+    "thumbnail": "https://StudyPlaying.github.io/images/1087.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "idle-landmark-builder",
+    "thumbnail": "https://StudyPlaying.github.io/images/1088.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "music-cat-piano-tiles-game-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/1089.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pet-salon-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/1090.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "mahjong-masters",
+    "thumbnail": "https://StudyPlaying.github.io/images/1091.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "basketball-rush",
+    "thumbnail": "https://StudyPlaying.github.io/images/1092.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "grenade-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/1093.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "people-playground-ragdoll-arena",
+    "thumbnail": "https://StudyPlaying.github.io/images/1094.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "detective-logic-puzzles",
+    "thumbnail": "https://StudyPlaying.github.io/images/1095.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "candy-battle-sweet-survivors",
+    "thumbnail": "https://StudyPlaying.github.io/images/1096.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "sea-battle-admiral",
+    "thumbnail": "https://StudyPlaying.github.io/images/1097.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "merge-master-skibidi-bop",
+    "thumbnail": "https://StudyPlaying.github.io/images/1098.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "sushi-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1099.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pin-detective",
+    "thumbnail": "https://StudyPlaying.github.io/images/1100.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "food-truck-chef-cooking",
+    "thumbnail": "https://StudyPlaying.github.io/images/1101.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "grandmas-last-stand",
+    "thumbnail": "https://StudyPlaying.github.io/images/1102.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "animal-link",
+    "thumbnail": "https://StudyPlaying.github.io/images/1103.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "drive-ahead-sports",
+    "thumbnail": "https://StudyPlaying.github.io/images/1104.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "merge-galaxy",
+    "thumbnail": "https://StudyPlaying.github.io/images/1105.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sword-run-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/1106.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "unscrew-wood-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1107.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-tank-wrestle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1108.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "ping-pong-air",
+    "thumbnail": "https://StudyPlaying.github.io/images/1109.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "heroball-adventures-2",
+    "thumbnail": "https://StudyPlaying.github.io/images/1110.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "griddlers-deluxe",
+    "thumbnail": "https://StudyPlaying.github.io/images/1111.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "steal-items-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/1112.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "block-combo-blast",
+    "thumbnail": "https://StudyPlaying.github.io/images/1113.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fidget-trading-card-toy",
+    "thumbnail": "https://StudyPlaying.github.io/images/1114.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "asmr-nail-treatment",
+    "thumbnail": "https://StudyPlaying.github.io/images/1115.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "ocean-pop",
+    "thumbnail": "https://StudyPlaying.github.io/images/1116.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gt-formula-championship",
+    "thumbnail": "https://StudyPlaying.github.io/images/1117.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "plane-crash-ragdoll-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/1118.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "kawaii-claw-merge",
+    "thumbnail": "https://StudyPlaying.github.io/images/1119.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stickman-rogue-online",
+    "thumbnail": "https://StudyPlaying.github.io/images/1120.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "offroad-jeep-game-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/1121.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "halloween-stickman",
+    "thumbnail": "https://StudyPlaying.github.io/images/1122.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "school-teacher-simulator",
+    "thumbnail": "https://StudyPlaying.github.io/images/1123.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://StudyPlaying.github.io/images/1124.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "geometrix",
+    "thumbnail": "https://StudyPlaying.github.io/images/1125.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "molang-matchn-munch",
+    "thumbnail": "https://StudyPlaying.github.io/images/1126.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "swim-good",
+    "thumbnail": "https://StudyPlaying.github.io/images/1127.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "last-war-survival",
+    "thumbnail": "https://StudyPlaying.github.io/images/1128.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brat-girl-summer",
+    "thumbnail": "https://StudyPlaying.github.io/images/1129.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/1130.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "100-rooms-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/1131.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snow-rider-3d-nostalgia",
+    "thumbnail": "https://StudyPlaying.github.io/images/1132.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "paws-off-my-clues",
+    "thumbnail": "https://StudyPlaying.github.io/images/1133.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "high-speed-crazy-bike",
+    "thumbnail": "https://StudyPlaying.github.io/images/1134.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "motor-tour",
+    "thumbnail": "https://StudyPlaying.github.io/images/1135.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "waterpark-sort",
+    "thumbnail": "https://StudyPlaying.github.io/images/1136.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "farm-of-words",
+    "thumbnail": "https://StudyPlaying.github.io/images/1137.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "cyberpunk-agent",
+    "thumbnail": "https://StudyPlaying.github.io/images/1138.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "desert-rover-survival",
+    "thumbnail": "https://StudyPlaying.github.io/images/1139.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "forest-match-4",
+    "thumbnail": "https://StudyPlaying.github.io/images/1140.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "zombies-battle-for-survival",
+    "thumbnail": "https://StudyPlaying.github.io/images/1141.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mahjong-cute-tiles",
+    "thumbnail": "https://StudyPlaying.github.io/images/1142.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "real-racing-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/1143.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "logic-storm-animals-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1144.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ice-cream-fever-cooking-game",
+    "thumbnail": "https://StudyPlaying.github.io/images/1145.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "avatar-master-fix-up-face",
+    "thumbnail": "https://StudyPlaying.github.io/images/1146.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-to-smash-zombie",
+    "thumbnail": "https://StudyPlaying.github.io/images/1147.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "magic-forest-merge-the-secrets",
+    "thumbnail": "https://StudyPlaying.github.io/images/1148.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flip-it-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/1149.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hawaii-match-6",
+    "thumbnail": "https://StudyPlaying.github.io/images/1150.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "driverz-ed",
+    "thumbnail": "https://StudyPlaying.github.io/images/1151.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "worldcraft-3",
+    "thumbnail": "https://StudyPlaying.github.io/images/1152.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "granny-pills-defend-cactuses",
+    "thumbnail": "https://StudyPlaying.github.io/images/1153.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fireside-solitaire",
+    "thumbnail": "https://StudyPlaying.github.io/images/1154.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "brick-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/1155.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-free-3",
+    "thumbnail": "https://StudyPlaying.github.io/images/1156.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "bolts-and-nuts-sorting",
+    "thumbnail": "https://StudyPlaying.github.io/images/1157.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sudoku-brain-blocks",
+    "thumbnail": "https://StudyPlaying.github.io/images/1158.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "magic-tri-peaks-solitaire",
+    "thumbnail": "https://StudyPlaying.github.io/images/1159.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tri-peaks-emerland-solitaire",
+    "thumbnail": "https://StudyPlaying.github.io/images/1160.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "crazyzombies-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/1161.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "variety-mecha",
+    "thumbnail": "https://StudyPlaying.github.io/images/1162.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://StudyPlaying.github.io/images/1163.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-rainbow-tower",
+    "thumbnail": "https://StudyPlaying.github.io/images/1164.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bomber-battle-arena",
+    "thumbnail": "https://StudyPlaying.github.io/images/1165.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://StudyPlaying.github.io/images/1166.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "nubik-create-your-place",
+    "thumbnail": "https://StudyPlaying.github.io/images/1167.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dreamy-home",
+    "thumbnail": "https://StudyPlaying.github.io/images/1168.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brawl-stars-battle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1169.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "aqua-sort-water-color-puzzle",
+    "thumbnail": "https://StudyPlaying.github.io/images/1170.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "peg-solitaire",
+    "thumbnail": "https://StudyPlaying.github.io/images/1171.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://StudyPlaying.github.io/images/1172.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shadowman-runner",
+    "thumbnail": "https://StudyPlaying.github.io/images/1173.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "winter-wolf",
+    "thumbnail": "https://StudyPlaying.github.io/images/1174.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "asmr-pet-treatment",
+    "thumbnail": "https://StudyPlaying.github.io/images/1175.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "color-sort-impostor-edition",
+    "thumbnail": "https://StudyPlaying.github.io/images/1176.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-pixels",
+    "thumbnail": "https://StudyPlaying.github.io/images/1177.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vex-hyper-dash",
+    "thumbnail": "https://StudyPlaying.github.io/images/1178.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "asmr-girl-livestream-mukbang",
+    "thumbnail": "https://StudyPlaying.github.io/images/1179.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "crash-the-robot",
+    "thumbnail": "https://StudyPlaying.github.io/images/1180.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "seadragons-io",
+    "thumbnail": "https://StudyPlaying.github.io/images/1181.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombies-and-guns",
+    "thumbnail": "https://StudyPlaying.github.io/images/1182.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "lol-funny-dance",
+    "thumbnail": "https://StudyPlaying.github.io/images/1183.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "fashion-battle-for-survival",
+    "thumbnail": "https://StudyPlaying.github.io/images/1184.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "squid-game-playground-shooter",
+    "thumbnail": "https://StudyPlaying.github.io/images/1185.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "imposter-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/1186.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "angry-plants-flower",
+    "thumbnail": "https://StudyPlaying.github.io/images/1187.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "321-choose-the-different",
+    "thumbnail": "https://StudyPlaying.github.io/images/1188.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "maze-hide-or-seek",
+    "thumbnail": "https://StudyPlaying.github.io/images/1189.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-triple-3d-tile-match",
+    "thumbnail": "https://StudyPlaying.github.io/images/1190.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "enchanted-easter-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/1191.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "nautilus-spaceship-escape",
+    "thumbnail": "https://StudyPlaying.github.io/images/1192.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "murder-case-clue-3d",
+    "thumbnail": "https://StudyPlaying.github.io/images/1193.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "monster-dash",
+    "thumbnail": "https://StudyPlaying.github.io/images/1194.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "graduation-makeup-trends",
+    "thumbnail": "https://StudyPlaying.github.io/images/1195.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "stick-ninja-survival",
+    "thumbnail": "https://StudyPlaying.github.io/images/1196.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "racing-ball-adventure",
+    "thumbnail": "https://StudyPlaying.github.io/images/1197.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "math-master",
+    "thumbnail": "https://StudyPlaying.github.io/images/1198.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "cross-connect-word",
+    "thumbnail": "https://StudyPlaying.github.io/images/1199.webp",
+    "genre": "Puzzle, Educational"
+  }
+]
